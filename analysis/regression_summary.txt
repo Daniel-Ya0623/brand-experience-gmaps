@@ -1,0 +1,3 @@
+Adjusted R² (Brand Identification Model): .405
+Adjusted R² (Word of Mouth Model): .624
+All four experience types significantly influence brand identification.
